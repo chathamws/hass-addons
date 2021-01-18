@@ -30,5 +30,5 @@
     "9090/tcp": "Not required for Ingress"
   },
   "schema": {},
-  "image": "chathamws/prometheus-{arch}"
+  "image": "hassioaddons/prometheus-{arch}"
 }
