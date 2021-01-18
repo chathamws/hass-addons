@@ -1,6 +1,6 @@
 {
   "name": "Prometheus",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.0",
   "slug": "prometheus",
   "description": "Cloud native metrics",
   "url": "https://github.com/chathamws/addon-prometheus",
