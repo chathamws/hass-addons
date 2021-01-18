@@ -126,7 +126,7 @@ addons:
     target: plex
     image: hassioaddons/plex-{arch}
   prometheus:
-    repository: hassio-addons/addon-prometheus
+    repository: chathamws/addon-prometheus
     target: prometheus
     image: hassioaddons/prometheus-{arch}         
   portainer:
